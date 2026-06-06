@@ -1,9 +1,21 @@
 # OTT-Performance-Insights-Dashboard
 Interactive Tableau dashboard analyzing OTT platform performance, audience engagement, content ratings, and revenue trends.
-# OTT Performance Insights Dashboard
 
 ## Overview
 An interactive Tableau dashboard designed to analyze OTT platform performance, audience engagement, content ratings, and revenue trends across multiple platforms and regions.
+
+## Dashboard Preview
+![Full Overview](Dashboard_1__10_.png)
+![SonyLIV Filtered View](Dashboard_1__9_.png)
+
+## Live Dashboard
+[View on Tableau Public](https://public.tableau.com/app/profile/jayashree.s8835/viz/OTTPerformanceOverview/Dashboard1)
+
+## Key Metrics
+- Total Revenue: ₹544.73M
+- Revenue per View: ₹2.52
+- Platforms: 8
+- Regions: Brazil, India, UK, USA
 
 ## Dashboard Features
 - Revenue analysis by platform and region
@@ -25,9 +37,6 @@ An interactive Tableau dashboard designed to analyze OTT platform performance, a
 - Tracks audience engagement trends
 - Compares platform-level revenue performance
 - Supports data-driven content and business decisions
-
-## Dashboard Preview
-(Add dashboard screenshots here)
 
 ## Skills Demonstrated
 - Data Visualization
