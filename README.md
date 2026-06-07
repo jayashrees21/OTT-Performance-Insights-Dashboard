@@ -4,9 +4,6 @@ Interactive Tableau dashboard analyzing OTT platform performance, audience engag
 ## Overview
 An interactive Tableau dashboard designed to analyze OTT platform performance, audience engagement, content ratings, and revenue trends across multiple platforms and regions.
 
-## Dashboard Preview
-![Full Overview](Dashboard_1__10_.png)
-![SonyLIV Filtered View](Dashboard_1__9_.png)
 
 ## Live Dashboard
 [View on Tableau Public](https://public.tableau.com/app/profile/jayashree.s8835/viz/OTTPerformanceOverview/Dashboard1)
