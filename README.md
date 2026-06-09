@@ -6,7 +6,7 @@ An interactive Tableau dashboard designed to analyze OTT platform performance, a
 
 
 ## Live Dashboard
-[View on Tableau Public](https://public.tableau.com/app/profile/jayashree.s8835/viz/OTTPerformanceOverview/Dashboard1)
+[View on Tableau Public](https://public.tableau.com/app/profile/jayashree.s8835/viz/OTTPerformanceOverview/Dashboard2)
 
 ## Key Metrics
 - Total Revenue: ₹544.73M
